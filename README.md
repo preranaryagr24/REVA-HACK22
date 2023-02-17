@@ -6,6 +6,6 @@ There is no system currently that can measure a persons driving skills and compa
  The above image depicts the image recognition using open cv and face recognition.
  
  
-![Uploading WhatsApp Image 2022-11-13 at 12.28.25 PM (1).jpeg…]()
+ 
 ![WhatsApp Image 2022-11-13 at 12 28 48 PM](https://user-images.githubusercontent.com/77984691/201509907-902c0fb3-8151-4c94-8e51-e2b8c36ac78d.jpeg)
-![Uploading WhatsApp Image 2022-11-13 at 12.28.25 PM.jpeg…]()
+ 
